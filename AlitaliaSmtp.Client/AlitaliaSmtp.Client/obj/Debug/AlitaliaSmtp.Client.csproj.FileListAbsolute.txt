@@ -1,0 +1,7 @@
+C:\Users\jnaranjv\source\repos\AlitaliaSmtp.Client\AlitaliaSmtp.Client\bin\Debug\AlitaliaSmtp.Client.exe.config
+C:\Users\jnaranjv\source\repos\AlitaliaSmtp.Client\AlitaliaSmtp.Client\bin\Debug\AlitaliaSmtp.Client.exe
+C:\Users\jnaranjv\source\repos\AlitaliaSmtp.Client\AlitaliaSmtp.Client\bin\Debug\AlitaliaSmtp.Client.pdb
+C:\Users\jnaranjv\source\repos\AlitaliaSmtp.Client\AlitaliaSmtp.Client\obj\Debug\AlitaliaSmtp.Client.csprojAssemblyReference.cache
+C:\Users\jnaranjv\source\repos\AlitaliaSmtp.Client\AlitaliaSmtp.Client\obj\Debug\AlitaliaSmtp.Client.csproj.CoreCompileInputs.cache
+C:\Users\jnaranjv\source\repos\AlitaliaSmtp.Client\AlitaliaSmtp.Client\obj\Debug\AlitaliaSmtp.Client.exe
+C:\Users\jnaranjv\source\repos\AlitaliaSmtp.Client\AlitaliaSmtp.Client\obj\Debug\AlitaliaSmtp.Client.pdb
